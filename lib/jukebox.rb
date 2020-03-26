@@ -1,6 +1,3 @@
-# Add your code here
-<<<<<<< HEAD
-
 def help
     puts "I accept the following commands:"
     puts "- help : displays this help message"
@@ -47,13 +44,4 @@ def run(songs)
         exit_jukebox
     end
 end
-=======
-def say_hello(name)
-  "Hi #{name}!"
-end
 
-puts "Enter you name:"
-users_name = gets.strip
-
-puts say_hello(users_name)
->>>>>>> 2d7fa3a590b8a1a97476a8b24a32d3c28bc8e3b2
